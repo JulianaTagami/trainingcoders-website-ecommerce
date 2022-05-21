@@ -1,9 +1,7 @@
-# Desenvolvimento de Projeto Website E-commerce
 
 <h1 align="center" >
-    <img src="./assets/img/" >
+    <p> Desenvolvimento de Projeto Website E-commerce </p>
     <p>Website E-commerce</p>
-
 </h1>
 
 ## About 
